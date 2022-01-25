@@ -29,3 +29,18 @@ ___
 <!-- title of link -->
 [daryo](https://daryo.uz
 "daryo yangiliklar kanali")
+
+
+<!-- !UL(Unordered List) -->
+* list1
+* list2
+* list3
+  * nested list1
+  * nested list2
+  * nested list3
+
+<!-- !OL(Ordered List) -->
+1. list1
+1. list2
+1. list3
+  
